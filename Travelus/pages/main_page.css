@@ -1,0 +1,242 @@
+.main-page .logo-website {
+  background: url('../assets/images/logo_website.png') 50% / cover no-repeat;
+  width: 224px;
+  height: 98px;
+}
+.main-page .kontakt {
+  margin-right: 20.1px;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.zdjcia {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.main-page .zdjcia {
+  margin: 1.5px 20.3px 1.5px 0;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.main-page .onas {
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.main-page .kontaktyv-2 {
+  margin: 11px 41.3px 11px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.main-page .zaloguj-si {
+  overflow-wrap: break-word;
+  font-family: var(--small-text-font-family, 'Inter');
+  font-weight: var(--small-text-font-weight, 500);
+  font-size: var(--small-text-font-size, 16px);
+  line-height: var(--small-text-line-height, 1.5);
+  color: #FFFFFF;
+}
+.main-page .zaloguj-sie {
+  box-shadow: var(--button-shadow, 0px 1px 2px 0px rgba(0, 0, 0, 0.05));
+  border-radius: 8px;
+  background: #000000;
+  display: flex;
+  padding: 14px 0.5px 14px 0;
+  width: 131px;
+  box-sizing: border-box;
+}
+.main-page .kontakty {
+  margin: 15px 0 31px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.main-page .header {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px 0 10px 0;
+  width: 1866px;
+  box-sizing: border-box;
+}
+.main-page .wybierz-miejsce-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 55px;
+  letter-spacing: -1.1px;
+  color: #000000;
+}
+.main-page .wybierz-miejsce {
+  position: absolute;
+  left: 50%;
+  top: 10px;
+  translate: -50% 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.main-page .magnifier-1 {
+  position: absolute;
+  left: 50%;
+  bottom: 0.5px;
+  translate: -50% 0;
+  width: 32px;
+  height: 32px;
+}
+.main-page .magnifier {
+  position: relative;
+  margin: 6px 20.4px 6px 0;
+  width: 32px;
+  height: 33px;
+}
+.main-page .szukaj {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 400;
+  font-size: 30px;
+  letter-spacing: -0.6px;
+  color: #000000;
+}
+.main-page .searchbar-main {
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.16);
+  border-radius: 24px;
+  background: #FDDCDC;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 0 8px 18px;
+  width: 523px;
+  box-sizing: border-box;
+}
+.main-page .searchbar {
+  border-radius: 60px;
+  background: rgba(255, 255, 255, 0.85);
+  position: relative;
+  display: flex;
+  padding: 94px 0 22px 0;
+  width: 770px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.main-page .searchbar-background {
+  background: url('../assets/images/searchbar_background.jpeg') 50% / cover no-repeat;
+  margin-bottom: 36px;
+  display: flex;
+  padding: 247.5px 0;
+  width: 1866px;
+  box-sizing: border-box;
+}
+.main-page .najczciej-wybierane-miejsca {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: -0.8px;
+  color: #000000;
+}
+.main-page .najczesciej-wybierane-miejsca {
+  display: flex;
+  box-sizing: border-box;
+}
+.main-page .chorwacja {
+  margin: 0 0 17px 23.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 0.84;
+  color: #000000;
+}
+.main-page .croatia-photo-1 {
+  border-radius: 15px;
+  background: url('../assets/images/croatia_photo_1.jpeg') 50% / cover no-repeat;
+  width: 440px;
+  height: 432px;
+}
+.main-page .croatia {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.main-page .usa {
+  margin: 0 0 17px 23px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 0.84;
+  color: #000000;
+}
+.main-page .croatia-photo-2 {
+  border-radius: 15px;
+  background: url('../assets/images/croatia_photo_2.jpeg') 50% / cover no-repeat;
+  width: 440px;
+  height: 432px;
+}
+.main-page .croatia-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.main-page .hiszpania {
+  margin: 0 0 17px 23.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 0.84;
+  color: #000000;
+}
+.main-page .croatia-photo {
+  border-radius: 15px;
+  background: url('../assets/images/croatia_photo.jpeg') 50% / cover no-repeat;
+  width: 440px;
+  height: 432px;
+}
+.main-page .croatia-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.main-page .navigation-footer {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  column-gap: 100px;
+  padding: 67px 173px 40px 173px;
+  width: 1866px;
+  box-sizing: border-box;
+}
+.main-page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1866px;
+  box-sizing: border-box;
+}

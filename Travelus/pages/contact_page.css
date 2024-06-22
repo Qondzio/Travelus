@@ -1,0 +1,378 @@
+.contact-page .logo-website {
+  background: url('../assets/images/logo_website.png') 50% / cover no-repeat;
+  width: 224px;
+  height: 98px;
+}
+.contact-page .kontakt {
+  margin-right: 20.1px;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.contact-page .zdjcia {
+  margin-right: 20.3px;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.contact-page .onas {
+  overflow-wrap: break-word;
+  font-family: var(--body-text-font-family, 'Inter');
+  font-weight: var(--body-text-font-weight, 500);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 1.5);
+  color: #000000;
+}
+.contact-page .kontaktyv-2 {
+  margin: 11px 41.3px 11px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.contact-page .zaloguj-si {
+  overflow-wrap: break-word;
+  font-family: var(--small-text-font-family, 'Inter');
+  font-weight: var(--small-text-font-weight, 500);
+  font-size: var(--small-text-font-size, 16px);
+  line-height: var(--small-text-line-height, 1.5);
+  color: #FFFFFF;
+}
+.contact-page .zaloguj-sie {
+  box-shadow: var(--button-shadow, 0px 1px 2px 0px rgba(0, 0, 0, 0.05));
+  border-radius: 8px;
+  background: #000000;
+  display: flex;
+  padding: 14px 0.5px 14px 0;
+  width: 131px;
+  box-sizing: border-box;
+}
+.contact-page .kontakty {
+  margin: 15px 0 31px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.contact-page .header {
+  background: #FFFFFF;
+  margin-bottom: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 15px;
+  width: 1866px;
+  box-sizing: border-box;
+}
+.contact-page .skontaktuj-si-znami {
+  margin: 0 22.9px 50px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  letter-spacing: -0.8px;
+  color: #FFFFFF;
+}
+.contact-page .gdzie-nas-znale {
+  margin: 0 0.2px 5px 0.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: -0.4px;
+  color: #FFFFFF;
+}
+.contact-page .wysza-szkoa-informatyki-izarzdzania {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: -0.4px;
+  color: #FFFFFF;
+}
+.contact-page .ul-sucharskiego-235225-rzeszw {
+  margin: 0 0.2px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: -0.4px;
+  color: #FFFFFF;
+}
+.contact-page .gdzie-nas-znale-1 {
+  margin: 0 0 50px 0.1px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page .napisz-do-nas-na-email {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: -0.4px;
+  color: #FFFFFF;
+}
+.contact-page .wsizwsiz-edu-pl {
+  margin: 0 0.2px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: -0.4px;
+  color: #FFFFFF;
+}
+.contact-page .napisz-do-nas-na-maila {
+  margin: 0 163.9px 50px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page .zadzwo-do-nas {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: -0.4px;
+  color: #FFFFFF;
+}
+.contact-page .container {
+  margin: 0 6.3px 0 0.3px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: -0.4px;
+  color: #FFFFFF;
+}
+.contact-page .zadzwon-do-nas {
+  margin: 0 238.9px 70px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page .nasze-social-media {
+  margin: 0 56.9px 50px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  letter-spacing: -0.8px;
+  color: #FFFFFF;
+}
+.contact-page .facebook {
+  width: 30px;
+  height: 30px;
+}
+.contact-page .you-tube {
+  width: 36px;
+  height: 30px;
+}
+.contact-page .instagram {
+  width: 33px;
+  height: 30px;
+}
+.contact-page .twitter {
+  width: 35px;
+  height: 30px;
+}
+.contact-page .social-media {
+  margin-right: 142.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 269px;
+  box-sizing: border-box;
+}
+.contact-page .left-side {
+  border-radius: 20px;
+  background: linear-gradient(180deg, #1E6EF6, #D8E6FF);
+  margin-right: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 0 230px 0;
+  width: 628px;
+  box-sizing: border-box;
+}
+.contact-page .imi-1 {
+  margin: 0 0.3px 10px 0.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 23px;
+  letter-spacing: -0.5px;
+  color: #000000;
+}
+.contact-page .imi-2 {
+  border-radius: 10px;
+  border: 1px solid #AAAAAA;
+  width: 289px;
+  height: 45px;
+}
+.contact-page .imi {
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.contact-page .nazwisko-1 {
+  margin: 0 0.1px 10px 0.1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 23px;
+  letter-spacing: -0.5px;
+  color: #000000;
+}
+.contact-page .nazwisko-2 {
+  border-radius: 10px;
+  border: 1px solid #AAAAAA;
+  width: 289px;
+  height: 45px;
+}
+.contact-page .nazwisko {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.contact-page .firstlast-name {
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page .nazwa-firmy {
+  margin: 0 0.3px 10px 0.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 23px;
+  letter-spacing: -0.5px;
+  color: #000000;
+}
+.contact-page .nazwa-firmy-1 {
+  border-radius: 10px;
+  border: 1px solid #AAAAAA;
+  width: 628px;
+  height: 45px;
+}
+.contact-page .nazwa-firmy-2 {
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page .nazwa-firmy-3 {
+  margin: 0 0.5px 10px 0.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 23px;
+  letter-spacing: -0.5px;
+  color: #000000;
+}
+.contact-page .email-1 {
+  border-radius: 10px;
+  border: 1px solid #AAAAAA;
+  width: 628px;
+  height: 45px;
+}
+.contact-page .email {
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page .wiadomo-1 {
+  margin: 0 0.4px 10px 0.4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 23px;
+  letter-spacing: -0.5px;
+  color: #000000;
+}
+.contact-page .wiadomo-2 {
+  border-radius: 10px;
+  border: 1px solid #AAAAAA;
+  width: 628px;
+  height: 262px;
+}
+.contact-page .wiadomo {
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page .login {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.contact-page .login-button {
+  border-radius: 8px;
+  background: #4786FF;
+  display: flex;
+  padding: 15px 0.6px 15px 0;
+  width: 628px;
+  box-sizing: border-box;
+}
+.contact-page .right-side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.contact-page .contact-form {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 150px;
+  width: 1866px;
+  box-sizing: border-box;
+}
